@@ -1,11 +1,12 @@
 # Django-Project
-Smart Campus Helpdesk API
+
+# Smart Campus Helpdesk API
 
 This project is a backend REST API built using Django and Django REST Framework for managing support tickets in a Smart Campus system.
 
 Students can create tickets for issues such as classroom, hostel, or network problems. Administrators can view, update, and manage those tickets.
 
-Project Objective
+#Project Objective
 
 The goal of this project is to implement backend concepts such as:
 
@@ -25,7 +26,7 @@ Clean API structure
 
 This project uses PostgreSQL as the database.
 
-Tech Stack
+# Tech Stack
 
 Python
 
@@ -37,7 +38,7 @@ PostgreSQL
 
 Simple JWT
 
-Features
+# Features
 
 User login with JWT authentication
 
@@ -61,7 +62,7 @@ Search by title or description
 
 Pagination for ticket listing
 
-Ticket Model
+# Ticket Model
 
 The Ticket model contains the following fields:
 
